@@ -1,1 +1,1 @@
-Hello I am slate and I made a few things in python. Now they are here. 
+I make things and then put them here 
